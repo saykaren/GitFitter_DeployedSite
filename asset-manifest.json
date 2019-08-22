@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GitFitter_DeployedSite/static/css/main.36d7a6e8.chunk.css",
+    "main.js": "/GitFitter_DeployedSite/static/js/main.a57026ff.chunk.js",
+    "main.js.map": "/GitFitter_DeployedSite/static/js/main.a57026ff.chunk.js.map",
+    "runtime~main.js": "/GitFitter_DeployedSite/static/js/runtime~main.f12e023d.js",
+    "runtime~main.js.map": "/GitFitter_DeployedSite/static/js/runtime~main.f12e023d.js.map",
+    "static/js/2.73bdaf09.chunk.js": "/GitFitter_DeployedSite/static/js/2.73bdaf09.chunk.js",
+    "static/js/2.73bdaf09.chunk.js.map": "/GitFitter_DeployedSite/static/js/2.73bdaf09.chunk.js.map",
+    "index.html": "/GitFitter_DeployedSite/index.html",
+    "precache-manifest.522529d04a76df46ba63caa9f42c9c6e.js": "/GitFitter_DeployedSite/precache-manifest.522529d04a76df46ba63caa9f42c9c6e.js",
+    "service-worker.js": "/GitFitter_DeployedSite/service-worker.js",
+    "static/css/main.36d7a6e8.chunk.css.map": "/GitFitter_DeployedSite/static/css/main.36d7a6e8.chunk.css.map",
+    "static/media/checkMark.png": "/GitFitter_DeployedSite/static/media/checkMark.f2aef0da.png",
+    "static/media/friends.png": "/GitFitter_DeployedSite/static/media/friends.14554d37.png",
+    "static/media/sayKaren_Logo_transparent_7.2019.png": "/GitFitter_DeployedSite/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png",
+    "static/media/sleep.png": "/GitFitter_DeployedSite/static/media/sleep.18716100.png",
+    "static/media/water_glass.png": "/GitFitter_DeployedSite/static/media/water_glass.a7c2fd93.png",
+    "static/media/welcome.png": "/GitFitter_DeployedSite/static/media/welcome.4dcf98c7.png"
+  }
+}
